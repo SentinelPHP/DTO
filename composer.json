@@ -2,7 +2,7 @@
     "name": "sentinelphp/dto",
     "description": "PHP DTO generation from JSON Schemas",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["dto", "code-generation", "json-schema", "php"],
     "homepage": "https://github.com/SentinelPHP/dto",
     "authors": [

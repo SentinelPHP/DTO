@@ -154,4 +154,4 @@ $generator = new Generator(namingStrategy: new CustomNamingStrategy());
 
 ## License
 
-MIT
+GPL v3 — see LICENSE for details
